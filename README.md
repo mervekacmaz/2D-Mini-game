@@ -1,13 +1,11 @@
 # 2D-Mini-game
 
 ![image](https://github.com/mervekacmaz/2D-Mini-game/assets/83896575/7a1aedb5-6b1a-40d7-9e61-f86f650432e8)
-![image](https://github.com/mervekacmaz/2D-Mini-game/assets/83896575/e673a697-d57a-4ef0-a765-9b65f294cdb4)
 ![image](https://github.com/mervekacmaz/2D-Mini-game/assets/83896575/dff5fcc3-7a42-422d-b5f8-4d5542eb445b)
-![image](https://github.com/mervekacmaz/2D-Mini-game/assets/83896575/375d046a-33dc-49dd-9d0c-82f69aa0c2ea)
 ![image](https://github.com/mervekacmaz/2D-Mini-game/assets/83896575/957170fb-0ad6-46b4-bb8f-c923b14c21d0)
 
 
-So_Long is a basic 2D  game written in C. It is in progress.
+So_Long is a basic 2D  game written in C. It is in progress. Pixel art by me.
 
 Gameplay Overview:
 
