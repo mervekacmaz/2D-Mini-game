@@ -5,7 +5,7 @@
 ![image](https://github.com/mervekacmaz/2D-Mini-game/assets/83896575/957170fb-0ad6-46b4-bb8f-c923b14c21d0)
 
 
-So_Long is a basic 2D  game written in C. It is in progress. Pixel art by me.
+So_Long is a basic 2D  game written in C in 2022. It is in progress. Pixel art by me.
 
 Gameplay Overview:
 
